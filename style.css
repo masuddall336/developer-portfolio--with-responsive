@@ -1,0 +1,88 @@
+.header-bg{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+span{
+    color: #FFA602;
+}
+.left-content  h1{
+    font-weight:bold;
+}
+.left-content h4{
+    font-weight:bold;
+}
+.left-content p{
+    color:#B8B9C7;
+}
+.left-content button{
+    font-weight: bold;
+    background-image: linear-gradient(to right, #FF8D6D , #FF7153);
+    border: none;
+}
+
+
+
+
+
+
+.dream-bg{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.right-content  h1{
+    font-weight:bold;
+}
+.right-content h4{
+    font-weight:bold;
+}
+.right-content p{
+    color:#B8B9C7;
+}
+.right-content button{
+    font-weight: bold;
+    background-image: linear-gradient(to right, #FF8D6D , #FF7153);
+    border: none;
+}
+
+
+
+
+
+
+
+
+.content-bg{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 10%;
+}
+.content-header h2{
+    font-weight:bold;
+}
+.single-contents .left-contents{
+    box-shadow: 10px 0px 36px rgb(219, 213, 213);
+    margin-bottom:50px;
+    border-left:7px solid;
+    border-image: linear-gradient(rgb(255, 166, 0),rgb(248, 213, 146));
+    border-image-slice: 1;
+}
+
+
+.single-contents .right-contents{
+    box-shadow: 10px 0px 36px rgb(219, 213, 213);
+    margin-bottom:50px;
+    border-left:7px solid; 
+    border-image: linear-gradient(#192EC4,#00D5FF);
+    border-image-slice: 1;
+}
+
+
+
+
+
+
+
+
